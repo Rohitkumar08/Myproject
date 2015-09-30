@@ -1,0 +1,23 @@
+table tr th{background:#e1e1e1;font-size:20px;font-family:arial black;letter-spacing:3px;}
+
+table tr td,input,select,textarea{font-size:20px;font-family:bree serif;}
+
+#Box{
+background:#e1e1e9;
+width:70%;	
+margin:10px auto;
+}
+#Error{
+	padding:10px;
+	font-family:bree serif;	
+	letter-spacing:2px;
+}
+#hide{
+text-align:right;
+padding:0px 10px 10px 0px;	
+}
+#hide a{
+font-weight:900;
+font-family:bree serif;
+text-decoration:none;
+}
